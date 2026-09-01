@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+
+# Microsoft Office temporary files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Excel temporary / backup files
+*.tmp
+*.bak
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+.env.*
+*.key
+*.pem
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# Temporary directories
+tmp/
+temp/
